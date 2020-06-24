@@ -1,2 +1,6 @@
 pyTelegramBotAPI
 Flask
+requests
+smtplib
+sys
+email
